@@ -18,6 +18,6 @@
 
 <!-- Telefono Field -->
 <div class="form-group">
-    {!! Form::label('telefono', 'Telefono:') !!}
+    {!! Form::label('telefono', 'Teléfono:') !!}
     <p>{!! $propietario->telefono !!}</p>
 </div>

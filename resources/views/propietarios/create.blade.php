@@ -9,7 +9,7 @@ body {background-color: #F2F5A9}
 
     <div class="row">
         <div class="col-sm-12">
-            <h1 class="pull-left">Registrar Datos</h1>
+            <h1 class="pull-left">Registrar Datos de propietario</h1>
         </div>
     </div>
 
